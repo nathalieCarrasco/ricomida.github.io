@@ -1,0 +1,53 @@
+nav a h3 {
+    padding-left: 150px;
+    font-size: 37px;
+    text-align: justify;
+}
+.suscribete h2 {
+    color: #FFFFFF;
+    font-size: 40px;
+}
+.suscribete h4{
+    color: #FFFFFF;
+    font-size: 30px;
+}
+
+.suscribete h4 span {
+    font-family:'Lobster', cursive ;
+}
+
+
+.suscribete{
+    background-color:#DC3545 ;
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+
+
+.icono{
+    font-family: 'Lobster', cursive;
+    color: #FFFFFF;
+}
+
+.ingredientes{
+    text-decoration:underline ;
+}
+
+.preparacion{
+    text-decoration: underline;
+}
+
+.titulo{
+    color:#373A3C ;
+}
+
+.btn1{
+    margin-bottom: 20px;
+}
+.btn2{
+    margin-bottom: 20px;
+}
+
+#footersec{
+    background-color: #373A3C;
+}
